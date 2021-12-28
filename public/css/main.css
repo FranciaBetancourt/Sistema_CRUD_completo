@@ -1,0 +1,35 @@
+body{
+    background:rgb(216, 191, 216);   
+}
+.container-fluid{
+    width: 1200px;
+}
+.w-imagen{
+    width: 100px;
+}
+.bg-contenedor{
+    background-color: rgb(184, 47, 92);
+}
+.bg-barra{
+    background-color: rgb(139, 0, 139);
+}
+.bg-encabezados{
+    background-color: rgb(157, 70, 179);
+}
+.bg-input{
+    background-color: rgb(236, 193, 208);
+}
+.bg-tabla{
+    background-color: rgb(201, 165, 201); 
+}
+.bg-fondotabla{
+    background-color: rgb(216, 191, 216);
+}
+.text-oscuro{
+    color: black;  
+}
+.w-imagen2{
+    width: 300px;
+}
+
+
